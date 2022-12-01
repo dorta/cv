@@ -1,0 +1,114 @@
+= Diego Dorta - Curriculum Vitae
+© 2019-2022 Diego Dorta
+REV 2.0, December 1st, 2022
+:!doctype: article
+:reproducible:
+:!toc2:
+:toclevels: 5
+:source-highlighter: coderay
+:icons: font
+:autofit-option:
+ifdef::backend-pdf[:notitle:]
+ifdef::backend-pdf[]
+[discrete]
+= {doctitle}
+endif::[]
+
+== icon:user[] Personal Information
+
+icon:user[] Software Engineer | Free Software Enthusiast | 8+ years of experience working with C, Python and GNU/Linux.
+
+icon:home[] 45 Alberto Fabrini, Vila Moletta, Valinhos, SP, Brazil https://goo.gl/maps/UgxtdUdkWf6YLr1b8[icon:map-marker[]]
+| icon:phone[] +55 19 992 288 338
+| mailto:diegohdorta@gmail.com[icon:at[]]
+| `https://github.com/dorta[icon:github[]]`
+| https://www.instagram.com/diegohdorta/[icon:instagram[]]
+| https://www.linkedin.com/in/diegodorta/[icon:linkedin[]]
+
+== icon:suitcase[] Professional Experience
+
+=== Variscite Ltd | ARM System On Module Designer
+
+* icon:group[] **Senior Software Engineer (R&D Team)** | icon:calendar[] **July, 2021 to present** +
+** Linux Board Support Package (Yocto) and Machine Learning Applications Developer for NXP platforms.
+*** https://www.youtube.com/watch?v=dC1MkopKvEg&t=26s[icon:youtube[]  _Webinar: Embedded Machine Learning Applications on Variscite System on Modules_.]
+
+=== Robert Bosch GmbH | Bosch Integrated Solutions Brazil
+
+* icon:group[] **Innovation and Technology Engineer (R&D Team)** | icon:calendar[] **April, 2021 to June, 2021** +
+** FreeRTOS developer for IoT devices pertaining to the smart conveyor for mining.
+*** https://bosch-smartmine.com.br/#/smart-conveyor[icon:file[] _Smart Conveyor for Mining (Dot and Gateway)_.]
+
+=== NXP Semiconductors | Automotive, Security, IoT
+
+* icon:group[] **System and Application Engineer (System Engineering Team)** | icon:calendar[] **August, 2018 to February, 2021** +
+** Artificial Intelligence and Machine Learning Applications Developer;
+*** https://source.codeaurora.org/external/imxsupport/pyeiq/[icon:file[] _A Python Demo Framework for eIQ on i.MX Processors_].
+** User Interface and Multimedia Applications Developer (Qt, GTK, GStreamer);
+** Bootloader (U-Boot) and Kernel Driver Contributer (Ethernet, USB), and Root File System (Buildroot, Yocto).
+
+* icon:group[] **Research and Development Intern (R&D Team)** | icon:calendar[] **June, 2016 to July, 2018** +
+** Development of Machine Learning Applications, Open Source Contributions and Documentation Review.
+*** https://www.youtube.com/watch?v=O5F1N312Bhg[icon:youtube[] _Creating Qt Application for i.MX Embedded Systems_.]
+
+=== CNPEM | Brazilian Synchrotron Light Source
+
+* icon:group[] **Computer Engineering Intern (Beamline Software Group)** | icon:calendar[] **January, 2014 to December, 2015** +
+** _Scientific Instruments and Driver Applications Developer_.
+*** https://epics.anl.gov/modules/contact.php#Diego%20Dorta[icon:file[] _Published EPICS Drivers for Scientific Instruments_.]
+
+== icon:graduation-cap[] Academic Background
+
+* icon:university[] University of Campinas (_M.E, Artificial Intelligence and Machine Learning_) | icon:calendar[] **Present**
+
+* icon:university[] Pontifical Catholic University of Campinas/UniMetrocamp (_B.E, Computer Engineering_) | icon:calendar[] **August, 2018** +
+
+
+== icon:language[] Language Skills
+
+* **Portuguese** (_native_), **English** (_Proficient_), and **Spanish** (_Beginner_).
+
+
+
+== icon:plug[] Technical Skills
+
+* **Programming Languages and OS**
+
+** Proficient in _C_, and _Python_. Competent in _{cpp}_, and advanced knowledge on GNU/Linux System.
+
+* **Other Hard and Soft Technologies**
+
+** _AsciiDoc_, _Markdown_, _Git_, _Docker_, _Shell Script (Bourne Shell, Bash)_, _EPICS_, _POSIX_, _GCC_, _Clang_, _Licences_.
+
+
+== icon:plug[] Technical Writing and Speaking
+
+=== icon:book[] Blog Articles
+
+* icon:calendar[] **2022** | https://www.variscite.com/blog/getting-started-with-machine-learning/[icon:file[] Getting Started with Machine Learning]
+* icon:calendar[] **2022** | https://www.variscite.com/system-on-modules-blog/compare-the-differences-between-the-nxp-i-mx8-graphic-accelerators/[icon:file[] Compare the differences between the NXP i.MX8 Graphic Accelerators]
+* icon:calendar[] **2022** | https://www.variscite.com/blog/how-to-change-the-bsp-logos/[icon:file[] How to Change the BSP Logos]
+* icon:calendar[] **2021** | https://www.variscite.com/system-on-modules-blog/creating-a-custom-yocto-bsp-layer/[icon:file[] Creating a Custom Yocto BSP Layer]
+* icon:calendar[] **2018** | https://www.youtube.com/watch?v=Zl-Ypk9S-dc[icon:youtube[]] https://imxdev.gitlab.io/video/tutorial/Booting-iMX6-under-one-second/[icon:file[] Booting i.MX6 Processor Under One Second]
+* icon:calendar[] **2018** | https://www.youtube.com/watch?v=Fy1ueQBgDiI[icon:youtube[]] https://imxdev.gitlab.io/tutorial/How_to_decrease_boot_time_on_iMX6/[icon:file[] How to Decrease Boot Time on i.MX6 Processor]
+* icon:calendar[] **2017** | https://www.youtube.com/watch?v=O5F1N312Bhg[icon:youtube[]] https://imxdev.gitlab.io/video/tutorial/Creating_Qt_Application_for_iMX/[icon:file[] Creating Qt Application for i.MX Processors]
+* icon:calendar[] **2016** | https://diegohdorta.gitlab.io/Boot_Time_Research_Enhancement/[icon:file[] Boot Time Research Enhancement]
+* icon:calendar[] **2016** | https://imxdev.gitlab.io/tutorial/How_to_measure_network_speed_and_bandwidth_on_iMX_boards/[icon:file[] How to Measure Network Speed and Bandwidth on i.MX Platforms]
+
+=== Trainings & Presentations
+
+* icon:calendar[] **2021** | AI/ML Presenter for Grossenbacher Systeme (St. Gallen, Switzerland)
+* icon:calendar[] **2020** | AI/ML Presenter at SIEEL (_USP_, _Ufscar_) (Campinas, SP)
+* icon:calendar[] **2019** | Linux Kernel Support Presenter at Institute of Computing (_Unicamp_) (Campinas, SP)
+* icon:calendar[] **2019** | i.MX Hands-on Presenter at NXP (Campinas, SP)
+* icon:calendar[] **2019** | AI/ML Presenter at NXP Tech Days (Irvine, CA)
+* icon:calendar[] **2019** | AI/ML Presenter at NXP Tech Days (Austin, TX)
+* icon:calendar[] **2018** | AI/ML Introduction Presenter for SE Team (Austin, TX)
+* icon:calendar[] **2017** | i.MX Hands-on Presenter at FTF Brazil (São Paulo, SP)
+
+=== Publications & GitHub Projects
+
+* icon:calendar[] **2022** | https://python.variscite.com/[icon:file[] Documentation for Machine Learning and Multimedia Python API for Developers]
+* icon:calendar[] **2022** | https://github.com/varigit/pyvar[icon:file[] Repository for Machine Learning and Multimedia Python API for Developers]
+* icon:calendar[] **2022** | https://github.com/varigit/var-demos[icon:file[] Demos repository for Machine Learning and OpenCL]
+* icon:calendar[] **2022** | https://github.com/varigit/var-sd-card-writer[icon:file[] Recovery SD Card Writer Tool for Customers]
